@@ -1,0 +1,6 @@
+.github/
+*.log
+package-lock.json
+node_modules/
+.vscode/
+.DS_Store
